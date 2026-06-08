@@ -12,7 +12,7 @@ Veridi Logistics is over-promising and under-delivering on customer expectations
 ## B. Project Links
 
 - **Notebook:** [Link to your Jupyter Notebook on GitHub] 
-- **Dashboard:** [https://knustedugh-my.sharepoint.com/:u:/g/personal/pkandamcobbold_st_knust_edu_gh/IQCG_BAWKPMHRppqJjqPTMGPAVT8QcOaQUJXRy-YzxEUEZI?e=re53eX]
+- **Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiZTUxNmZlNDUtNDQyNy00YjU5LThhZDYtNTY5ZjNhZWI0YjEyIiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9]
 - **Presentation:** [https://knustedugh-my.sharepoint.com/:p:/g/personal/pkandamcobbold_st_knust_edu_gh/IQCt81ZHZhtYR6JDVsk8ElDvAcBgvll8Kou4MQGGjlQA3M0?e=Sly1n5]
 
 
